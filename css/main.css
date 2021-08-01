@@ -147,7 +147,7 @@ Clases usadas para el main home:
     background-color: var(--color-alternativo);
     text-align: center;
     font-family: 'Roboto mono', monospace;
-    height: 70px;
+    height: 80px;
 }
 
 .home-main-button {
