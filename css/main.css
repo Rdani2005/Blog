@@ -5,7 +5,7 @@
     --color-claro: #fff;
     --color-secundario: #071731;
     --color-alternativo: #757474;
-    --color-contenedores: #3d3a3a;
+    --color-contenedores: #494646;
     --color-botones: #246979;
 }
 
@@ -254,7 +254,7 @@ footer p {
 
 .blogpost-img-container {
     padding-bottom: 100px;
-    background-color: var(--color-contenedores);
+    background: linear-gradient(var(--color-secundario), var(--color-contenedores));
     width: 100%;
     margin-bottom: 0;
 }
@@ -266,7 +266,7 @@ footer p {
 
 .blogpost-main-container {
     padding: 0 50px 40px;
-    background-color: var(--color-alternativo);
+    background: linear-gradient(var(--color-contenedores),var(--color-alternativo));
     color: var(--color-claro);
     margin: 0;
 
@@ -286,7 +286,7 @@ footer p {
 .contact-main-container {
     width: 100%;
     min-height: 250px;
-    background-color: var(--color-contenedores);
+    background: linear-gradient(var(--color-contenedores), var(--color-secundario));
     text-align: center;
     padding-bottom: 50px;
 
@@ -383,8 +383,7 @@ footer p {
     align-items: flex-start;
     width: 100%;
     height: 100px;
-    
-    background-color: var(--color-alternativo);
+    background: linear-gradient(var(--color-alternativo), var(--color-contenedores));
 }
 
 .return--button {
