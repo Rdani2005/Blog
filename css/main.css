@@ -296,7 +296,6 @@ footer p {
 .contact-main-container div {
     color: var(--color-claro);
     display: inline-block;
-    width: 49.5%;
     height: 100%;
 }
 
@@ -306,7 +305,7 @@ footer p {
     padding-bottom: 5px;
 }
 
-.contact-main-container .contact-left, .contact-right {
+.contact-main-container .contact-left {
     text-align: initial;
     margin-top: 85px;
 }

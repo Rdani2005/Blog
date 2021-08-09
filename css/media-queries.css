@@ -50,4 +50,8 @@
     .blogs-posts-container .post-container {
         max-height: 100px;
     }
+
+    .contact-left p {
+        font-size: 10px;
+    }
 }
