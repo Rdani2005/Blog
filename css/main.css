@@ -223,8 +223,12 @@ Clases usadas para el main home:
     padding-left: 10px;
     max-width: 30%;
     margin-bottom: 50px;
-    max-height: 100px;
+    max-height: 500px;
     
+}
+
+.post-container {
+    margin-bottom: 35px;
 }
 
 .blogs-posts-container .post-container p {

@@ -46,4 +46,8 @@
         margin: 0 auto;
 
     }
+
+    .blogs-posts-container .post-container {
+        max-height: 100px;
+    }
 }
