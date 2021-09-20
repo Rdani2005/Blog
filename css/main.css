@@ -273,6 +273,11 @@ footer p {
 
 }
 
+.blogpost-main-container a {
+    color: var(--color-claro);
+    text-decoration: underline;
+}
+
 .blogpost-main-container h3 {
     border-bottom: 1px solid var(--main-color);
     padding-top: 20px;
